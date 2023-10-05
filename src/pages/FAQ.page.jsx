@@ -3,12 +3,8 @@ import React from 'react';
 const FAQPage = () => {
     return (
         <div>
-            <h3>FAQPage</h3>
-            <h3>FAQPage</h3>
-            <h3>FAQPage</h3>
-            <h3>FAQPage</h3>
-            <h3>FAQPage</h3>
-            <h3>FAQPage</h3>
+            <h5>FAQPage</h5>
+
         </div>
     );
 }
