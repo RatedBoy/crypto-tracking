@@ -5,11 +5,11 @@
 }
 
 body {
-  background-color: blueviolet;
+  /* background-color: blueviolet; */
 }
 
 .wrapper {
-  background-color: skyblue;
+  /* background-color: skyblue; */
   min-height: calc(100vh - 56px - 40px);
 }
 
